@@ -1,4 +1,4 @@
-# Guacamole 
+# Guacamole Recipe
 
 ## Ingredients
 
@@ -6,7 +6,6 @@
 - Lime
 - Garlic
 - Onion
-- Salt
 - Tomatoes
 - Jalapeño
   
